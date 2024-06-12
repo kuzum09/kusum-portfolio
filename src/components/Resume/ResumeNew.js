@@ -42,10 +42,10 @@ function ResumeNew() {
 						href={pdf}
 						download="Kusum_Resume.pdf"
 						style={{ textDecoration: "none", color: "inherit" }}>
-						<Button variant="primary" style={{ maxWidth: "250px" }}>
+						{/* <Button variant="primary" style={{ maxWidth: "250px" }}>
 							<AiOutlineDownload />
 							&nbsp;Download CV
-						</Button>
+						</Button> */}
 					</a>
 				</Row>
 			</Container>
