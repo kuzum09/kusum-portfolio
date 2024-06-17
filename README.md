@@ -42,6 +42,7 @@ A personal portfolio website built using React to showcase your projects, skills
 - Contact form
 - Smooth scrolling
 - Modern UI/UX
+- Creative Representation
 
 ## Technologies
 
