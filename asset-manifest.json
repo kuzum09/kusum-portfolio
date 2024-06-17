@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kusum-portfolio/static/css/main.3ea59d3a.css",
+    "main.js": "/kusum-portfolio/static/js/main.80b9e4c3.js",
+    "static/js/415.fc063c41.chunk.js": "/kusum-portfolio/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/kusum-portfolio/static/js/787.f6e65957.chunk.js",
+    "static/media/Kusum_Resume.pdf": "/kusum-portfolio/static/media/Kusum_Resume.a6b8e97dec2b909cfe79.pdf",
+    "static/media/college.png": "/kusum-portfolio/static/media/college.493d180c9f52bb0d63b5.png",
+    "static/media/crypto.png": "/kusum-portfolio/static/media/crypto.70dfb1586ab2c115c3fd.png",
+    "static/media/TicTacToe.png": "/kusum-portfolio/static/media/TicTacToe.e85de51cef054054181a.png",
+    "static/media/InvisoCloak.png": "/kusum-portfolio/static/media/InvisoCloak.da5d8ff10aa1fe323556.png",
+    "static/media/kp.png": "/kusum-portfolio/static/media/kp.bb1acb21e957bc146c2b.png",
+    "static/media/kp_main.svg": "/kusum-portfolio/static/media/kp_main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/kusum-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/image.png": "/kusum-portfolio/static/media/image.8261367595a4e4a262ee.png",
+    "static/media/logo.png": "/kusum-portfolio/static/media/logo.aac79c8f2c2023b2b99b.png",
+    "static/media/pre.svg": "/kusum-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/kusum-portfolio/index.html",
+    "main.3ea59d3a.css.map": "/kusum-portfolio/static/css/main.3ea59d3a.css.map",
+    "main.80b9e4c3.js.map": "/kusum-portfolio/static/js/main.80b9e4c3.js.map",
+    "415.fc063c41.chunk.js.map": "/kusum-portfolio/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/kusum-portfolio/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ea59d3a.css",
+    "static/js/main.80b9e4c3.js"
+  ]
+}
